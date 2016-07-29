@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagement_Server", "HospitalManagement_Server\HospitalManagement_Server.csproj", "{DC62A7CD-41C7-4D92-8117-914A02C681DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModelLib", "DataModelLib\DataModelLib.csproj", "{390286AF-C741-4131-9E21-542E0146C47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServicesLib", "DataServicesLib\DataServicesLib.csproj", "{F3567C34-C80E-4AE3-B4B4-735536A1D927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC62A7CD-41C7-4D92-8117-914A02C681DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC62A7CD-41C7-4D92-8117-914A02C681DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC62A7CD-41C7-4D92-8117-914A02C681DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC62A7CD-41C7-4D92-8117-914A02C681DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390286AF-C741-4131-9E21-542E0146C47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390286AF-C741-4131-9E21-542E0146C47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390286AF-C741-4131-9E21-542E0146C47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390286AF-C741-4131-9E21-542E0146C47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3567C34-C80E-4AE3-B4B4-735536A1D927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3567C34-C80E-4AE3-B4B4-735536A1D927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3567C34-C80E-4AE3-B4B4-735536A1D927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3567C34-C80E-4AE3-B4B4-735536A1D927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
