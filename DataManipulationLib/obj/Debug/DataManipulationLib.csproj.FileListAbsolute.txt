@@ -1,0 +1,4 @@
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataManipulationLib\bin\Debug\DataManipulationLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataManipulationLib\bin\Debug\DataManipulationLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataManipulationLib\obj\Debug\DataManipulationLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataManipulationLib\obj\Debug\DataManipulationLib.pdb
