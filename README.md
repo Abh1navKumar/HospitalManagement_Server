@@ -1,2 +1,0 @@
-# HospitalManagement_Server
-server
