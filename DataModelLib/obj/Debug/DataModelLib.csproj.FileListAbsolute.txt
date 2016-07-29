@@ -1,0 +1,5 @@
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataModelLib\bin\Debug\DataModelLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataModelLib\bin\Debug\DataModelLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataModelLib\obj\Debug\DataModelLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataModelLib\obj\Debug\DataModelLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\DataModelLib\obj\Debug\DataModelLib.csprojResolveAssemblyReference.cache
