@@ -1,0 +1,16 @@
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\HospitalManagement_Server.exe.config
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\HospitalManagement_Server.exe
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\HospitalManagement_Server.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\BugRepositoryLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\DataModelLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\DataServicesLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\PersonLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\BugLib.dll
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\DataModelLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\DataServicesLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\BugRepositoryLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\PersonLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\bin\Debug\BugLib.pdb
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\obj\Debug\HospitalManagement_Server.csprojResolveAssemblyReference.cache
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\obj\Debug\HospitalManagement_Server.exe
+C:\Users\310246678\Documents\Visual Studio 2015\Projects\HospitalManagement_Server\HospitalManagement_Server\obj\Debug\HospitalManagement_Server.pdb
